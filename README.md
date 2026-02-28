@@ -1,3 +1,4 @@
+
 # Gus System - IoT Robot Assistant
 
 A production-ready full-stack IoT system for the Gus robot assistant, consisting of a Python FastAPI backend (THE BRAIN) and a React + Vite frontend (THE FACE).
@@ -132,6 +133,9 @@ The frontend will be available at `http://localhost:5173`
 ## Environment Variables
 
 - `GROQ_API_KEY`: Required for AI processing (get from https://console.groq.com/)
+
+## Daigram
+- ![WhatsApp Image 2026-02-20 at 11 38 38](https://github.com/user-attachments/assets/5fc9dc32-ed7e-4f67-9ea5-9009d4525b44)
 
 ## License
 
